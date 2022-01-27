@@ -19,7 +19,6 @@
   position: relative;
   background-color: #f2f2f2;
   z-index: -1;
-  display: flex;
   flex-direction: column;
   align-items: left;
   justify-content: center;
@@ -73,7 +72,6 @@
   z-index: 1;
   /* border: 1px solid red;  */
   /* без оборачивания img в div не получалось абсолютное позиционирование */
-  z-index: 1;
 }
 
 .header__square-pic {
@@ -100,11 +98,6 @@
   margin: 0;
   padding-top: 100px;
   padding-bottom: 70px;
-  /*width: 80%;
-  margin: auto;
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;*/
 }
 
 .two-columns__brief {
@@ -177,7 +170,6 @@
 .table__cell {
   width: 250px;
   padding-top: 60px;
-  /* padding-bottom: 60px; */
   vertical-align: top;
   margin: 0;
 }
