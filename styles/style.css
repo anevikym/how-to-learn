@@ -9,6 +9,10 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
+/* Я устал, босс (с) 
+Я обязательно выживу и удалю эти строки*/
+/* Заранее спасибо за код-ревью ♥ */
+
 /* Header */
 
 .header {
@@ -69,7 +73,7 @@
 }
 
 .header__square-pic {
-  background-color: #2f80ed; 
+  background-color: #2f80ed;
   width: 568px;
   height: 568px;
   position: absolute;
@@ -81,7 +85,7 @@
 }
 
 .header__link {
-  color:  #2f80ed ;
+  color:  #2f80ed;
   text-decoration: none;
   z-index: 1;
 }
@@ -173,8 +177,8 @@
 }
 
  .table {
-  display: flex; 
-  flex-wrap: wrap; 
+  display: flex;
+  flex-wrap: wrap;
   width: 1100px;
   margin: auto;
   justify-content: space-between;
