@@ -159,8 +159,8 @@
 /* Techniques */
 
 .section-title_tecniques {
-  margin-top: 100px;
-  margin-bottom: 0;
+  padding-top: 100px;
+  margin: 0;
 }
 
 .cards {
@@ -224,9 +224,6 @@
   padding: 0;
   margin: 0;
   overflow: visible;
-  border: none;
-  width: 515px;
-  height: 316px;
 }
 
 /* Oakley */
@@ -299,7 +296,6 @@
 
 .section-title {
   text-align: center;
-  padding: 0;
   margin: 0 auto;
   line-height: 1.15;
   font-size: 60px;
